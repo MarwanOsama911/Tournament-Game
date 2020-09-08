@@ -9,8 +9,8 @@ Each player chooses a sign that he will keep throughout the tournament among:
 -Dog (D)
 
 ## Game Roles:
-#Elephant remove Tiger
-#Tiger stand for Lion
+-Elephant remove Tiger
+-Tiger stand for Lion
 -Lion Eat giraffe
 -Giraffe poisons Dog
 -Dog faster than Elephant
@@ -21,4 +21,4 @@ Each player chooses a sign that he will keep throughout the tournament among:
 -Lion crushes Elephant
 -And in case of a tie, the player with the lowest number wins.
 
-you can see the winner through the engine console 
+## you can see the winner through the engine console 
