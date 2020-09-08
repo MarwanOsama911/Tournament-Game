@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<PlayerDetails>
+  <Player ID="1" AnimalType ="T"></Player>
+  <Player ID="2" AnimalType ="G"></Player>
+  <Player ID="3" AnimalType ="G"></Player>
+  <Player ID="4" AnimalType ="L"></Player>
+  <Player ID="5" AnimalType ="D"></Player>
+  <Player ID="6" AnimalType ="G"></Player>
+  <Player ID="7" AnimalType ="E"></Player>
+  <Player ID="8" AnimalType ="D"></Player>
+</PlayerDetails>
