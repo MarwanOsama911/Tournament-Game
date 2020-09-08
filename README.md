@@ -1,13 +1,14 @@
 # Tournament-Game
 An international Animals tournament is organized, all players receive a number when they register.
 Each player chooses a sign that he will keep throughout the tournament among:
+
 -Lion (L)
 -Tiger (T)
 -Elephant (E)
 -Giraffe (G)
 -Dog (D)
 
-Game Roles:
+## Game Roles:
 -Elephant remove Tiger
 -Tiger stand for Lion
 -Lion Eat giraffe
